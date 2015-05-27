@@ -1,4 +1,4 @@
-# Weqaar A. Janjua <weqaar.janjua@sensorflock.com>, 24 MAR 2014
+# Weqaar A. Janjua <weqaar.janjua@gmail.com>, 24 MAR 2014
 # 
 # Structures for Frame and Command Definitions for PELCO-D
 
